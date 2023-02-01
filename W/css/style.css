@@ -22,4 +22,12 @@ body {
 
 #WT_pix {
   height: 200px;
+}
+
+#P_pix:hover {
+  width: 350px;
+}
+
+#WT_pix:active {
+  height: 400px;
 }/*# sourceMappingURL=style.css.map */
